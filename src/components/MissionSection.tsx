@@ -164,7 +164,7 @@ export default function MissionSection() {
                       <div className="font-['inter'] text-4xl font-extrabold bg-gradient-to-r from-[#3b82f6] via-[#6366f1] to-[#8b5cf6] bg-clip-text text-transparent mb-2">
                         100+
                       </div>
-                      <div className="text-[#cbd5e1] text-sm tracking-wide">Projects Delivered with Excellence</div>
+                      <div className="text-[#cbd5e1] text-sm tracking-wide">Projects Delivered</div>
                     </div>
                   </div>
                 </ScrollReveal>
